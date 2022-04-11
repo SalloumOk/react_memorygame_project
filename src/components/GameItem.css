@@ -1,0 +1,13 @@
+.GameItem-div {
+    border: 1px solid "#eee";
+    width: calc(300px - 4vmin);
+    height: calc(300px - 4vmin);
+    box-sizing: border-box;
+  }
+  
+  .GameItem-div > p {
+    margin: 0 auto;
+    font-size: 2rem;
+    text-align: center;
+    background-color: azure;
+  }

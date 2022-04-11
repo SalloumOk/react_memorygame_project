@@ -1,0 +1,12 @@
+.Congratulations-div {
+    position: absolute;
+    top: 1rem;
+    border-radius: 15px;
+    padding: 0.5rem;
+    background-color: lightgreen;
+    display: none;
+}
+
+.show-congrats {
+    display: block;
+}
