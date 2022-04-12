@@ -3,7 +3,7 @@
   }
   
   .App-header {
-    background-color: #282c34;
+    background-color: #fa0606;
     min-height: 25vh;
     display: flex;
     flex-direction: column;
@@ -14,12 +14,14 @@
   }
   
   .App-container {
+    background-color: black;
     min-height: 50vh;
     position: relative;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    color : white;
   }
   
   .App-scoreboard {
